@@ -11,7 +11,7 @@ const ProTips = () => {
 		<section className='pro-tips'>
 			<main>
 				<aside>
-					<em>Pro Tip--</em> {tips[index]}
+					<em>Pro Tip //</em> {tips[index]}
 				</aside>
 			</main>
 		</section>

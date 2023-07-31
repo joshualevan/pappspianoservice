@@ -11,9 +11,8 @@ const Pricing = () => {
 			</article>
 			<div id='contact'>
 				<p>
-					CALL <a href='tel:615-925-0495'>(615)925-0495</a> or email Josh at{' '}
-					<span>pappspianoservice@yahoo.com</span> for booking, questions, or additional service
-					requests.
+					CALL <a href='tel:615-925-0495'>(615)925-0495</a> for booking, questions, or additional
+					service requests or please use the form below.
 				</p>
 			</div>
 		</>

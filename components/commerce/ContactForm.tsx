@@ -9,7 +9,7 @@ const ContactForm = () => {
 	const sendEmail = (e: any) => {
 		e.preventDefault();
 
-		emailjs.sendForm('service_12ufkex', 'template_ospcwu9', form.current, '9ssQMgKOYU1moD1Ea').then(
+		emailjs.sendForm('service_fxaq1os', 'template_5rs81i9', form.current, 'r82Pf0B6j1N7Buqt_').then(
 			(result) => {
 				console.log(result.text);
 			},
@@ -19,6 +19,7 @@ const ContactForm = () => {
 		);
 
 		e.target.reset();
+		alert('Your Message was sent!');
 	};
 
 	return (
