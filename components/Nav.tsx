@@ -1,18 +1,18 @@
-'use client';
+// 'use client';
 
-import { useState, useEffect } from 'react';
+// import { useState, useEffect } from 'react';
 
 const Nav = () => {
-	const [y, setY] = useState(window.scrollY);
+	// const [y, setY] = useState(window.scrollY);
 
-	const onScroll = () => {
-		setY(window.scrollY);
-	};
+	// const onScroll = () => {
+	// 	setY(window.scrollY);
+	// };
 
-	window.addEventListener('scroll', onScroll);
+	// window.addEventListener('scroll', onScroll);
 
 	return (
-		<nav className={y > 10 ? 'scroll' : 'default'}>
+		<nav className='default'>
 			<main>
 				<img src='mark.png' alt='Papps Piano Service Logo' />
 				<ul>

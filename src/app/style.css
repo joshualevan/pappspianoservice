@@ -273,7 +273,6 @@ a {
 }
 
 nav {
-  position: fixed;
   background-color: #211f17;
   border-bottom: solid 1px #272621;
   z-index: 1000;
