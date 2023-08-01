@@ -20,9 +20,9 @@ const Header = () => {
 							exceptional action regulation services, and repairs of most common piano problems.
 							Based in <strong>University Heights</strong>, Josh services much of{' '}
 							<strong>Northeast Ohio</strong>/ <strong>Cleveland</strong> and <strong>Akron</strong>{' '}
-							areas including— <strong>Cuyahoga County</strong>, <strong>Summit County</strong>,{' '}
-							<strong>eastern Lorain County</strong>, <strong>western Lake County</strong>, and{' '}
-							<strong>western Geauga County</strong>.
+							areas including— <strong>Cuyahoga County</strong>,{' '}
+							<strong>Northern Summit County</strong>, <strong>eastern Lorain County</strong>,{' '}
+							<strong>western Lake County</strong>, and <strong>western Geauga County</strong>.
 						</p>
 					</div>
 					<div className='header-img-container' style={{ backgroundImage: `url(${bg.src})` }}></div>
