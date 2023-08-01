@@ -21,7 +21,7 @@ const Header = () => {
 							Based in <strong>University Heights</strong>, Josh services much of{' '}
 							<strong>Northeast Ohio</strong>/ <strong>Cleveland</strong> and <strong>Akron</strong>{' '}
 							areas including— <strong>Cuyahoga County</strong>,{' '}
-							<strong>Northern Summit County</strong>, <strong>eastern Lorain County</strong>,{' '}
+							<strong>northern Summit County</strong>, <strong>eastern Lorain County</strong>,{' '}
 							<strong>western Lake County</strong>, and <strong>western Geauga County</strong>.
 						</p>
 					</div>
